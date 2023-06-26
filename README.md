@@ -2,7 +2,9 @@
 
 The Unofficial Official IOS App for the Pterodactyl Panel.
 
-# ❇️ Features
+# ⚠️ This app is still under development, checkout the donation section to help us build the project.
+
+# ❇️ Comming Features
 
 Client Panel
   - Start, stop, restart or kill your server
