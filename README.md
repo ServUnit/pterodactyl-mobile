@@ -1,6 +1,15 @@
-# Pterodactyl Mobile App V1.11 🚀
+# Pterodactyl Mobile IOS App V1.11 🚀
 
 The Unofficial Official IOS App for the Pterodactyl Panel.
+
+# ❇️ Features
+
+Client Panel
+  - Start, stop, restart or kill your server
+  - Send commands to your server
+  - See the CPU, memory and disk stats that you are using
+  - See your Console logs.
+  - Select your host.
 
 # 💰 Donations
 
